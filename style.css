@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    line-height: 1.5;
+    background: #F2F2F2;
+    color: #000000;
+  }
+img {
+  max-width: 100%;
+}
+.section-title {
+    font-weight: bold;
+    font-size: 20px;
+  }
